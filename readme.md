@@ -6,3 +6,6 @@ story feature
 edit details
 share to story
 search accounts
+
+
+run using npx nodemon
